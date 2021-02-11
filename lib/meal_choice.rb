@@ -6,4 +6,4 @@ puts "What a nutritious meal!"
 "A plate of #{protein} with #{veg1} and #{veg2}"
 end 
 
-puts meal_choice("carrots", "broccoli", "beans")
+puts meal_choice("carrots", "broccoli")
